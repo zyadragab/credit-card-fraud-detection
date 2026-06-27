@@ -185,4 +185,4 @@ streamlit run app.py
 ## 👤 Author
  
 **Zyad Ragab** — AI Student & Aspiring ML Engineer
-📎 [LinkedIn](https://www.linkedin.com/in/zyadragab/) | 💻 [GitHub](https://github.com/zyadragab)
+📎 [LinkedIn](https://www.linkedin.com/in/zyad-ragab-3a4086337/) | 💻 [GitHub](https://github.com/zyadragab)
